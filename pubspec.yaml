@@ -37,6 +37,7 @@ dependencies:
   flutter_riverpod: ^2.0.0-dev.9
   freezed: ^2.0.3+1
   http: ^0.13.4
+  json_serializable: ^6.2.0
 
 dev_dependencies:
   flutter_test:
